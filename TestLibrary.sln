@@ -7,11 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibrary", "TestLibrary\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateAreaShapes", "CalculateAreaShapes\CalculateAreaShapes.csproj", "{FDA56436-D859-4D0C-9206-C48CAA69DCDA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{560FEC9C-DDE0-49E9-B1A5-477A6E483EE3}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\DisplayProductsWithCategories.sql = ..\..\..\Desktop\DisplayProductsWithCategories.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
